@@ -1,3 +1,4 @@
+# save reqest and response
 from burp import IBurpExtender, IContextMenuFactory
 from javax.swing import JMenuItem, JFileChooser
 from java.util import List, ArrayList
